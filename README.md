@@ -27,10 +27,9 @@ This project highlights how embedded systems and collaborative development can b
 ---
 
 ## 🎥 Demo Video
-Watch the EEBOT in action:  
-👉 [EEBOT Robot Guidance Challenge (YouTube)](https://youtube.com/shorts/PQ2uhcagHnQ?si=9LnpC-18juQw4heY)  
+Click the image below to watch the EEBOT Robot in action:
+[![EEBOT Robot Demo](https://img.youtube.com/vi/PQ2uhcagHnQ/0.jpg)](https://youtube.com/shorts/PQ2uhcagHnQ?si=9LnpC-18juQw4heY)
 
----
 
 ## 🚀 Summary
 Autonomous robot engineered to navigate a guided course using sensors, motor control, and decision-making algorithms. Powered by the Freescale HCS12 and NXP CodeWarrior, the system integrates timers, interrupts, and control loops for precise and reliable performance.  
