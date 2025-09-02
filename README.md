@@ -45,18 +45,6 @@ Sensors --> Microcontroller (HCS12) --> Decision-Making Algorithms --> Motor & A
 
 ---
 
-## 📺 Demo Video
-
-Watch the EEBOT Robot Guidance Challenge in action by clicking the thumbnail above or [here](https://youtube.com/shorts/PQ2uhcagHnQ?si=9LnpC-18juQw4heY).
-
----
-
-## 📄 Summary
-
-A fully functional autonomous robot engineered to navigate guided courses using **real-time sensors, motor control, and decision-making algorithms**. Developed with **Freescale HCS12** and **NXP CodeWarrior (Assembly + C)**, leveraging timers, interrupts, and control loops for **precise, reliable, and adaptive performance**.
-
----
-
 ## 📜 License & Copyright
 
 © 2025 **Hamza Malik** – All rights reserved.
