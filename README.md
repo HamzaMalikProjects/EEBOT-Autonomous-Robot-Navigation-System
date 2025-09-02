@@ -1,40 +1,62 @@
 # 🤖 EEBOT Autonomous Robot Navigation System
 
-The **EEBOT Autonomous Robot Navigation System** is a collaborative final project showcasing an **autonomous robot** designed to navigate a guided course with precision and reliability.  
-
-Built on the **Freescale HCS12 Microcontroller** and programmed with **NXP CodeWarrior (Assembly + C)**, the robot combines **real-time sensor input, motor control, and decision-making algorithms** to operate without human intervention.  
+[![EEBOT Robot Demo](https://img.youtube.com/vi/PQ2uhcagHnQ/0.jpg)](https://youtube.com/shorts/PQ2uhcagHnQ?si=9LnpC-18juQw4heY)  
+**Click the image above to watch the robot in action!**
 
 ---
 
-## 📖 Project Overview
-The EEBOT robot demonstrates the practical application of **embedded systems, control loops, and algorithmic navigation**.  
+## 📝 Project Overview
 
-Key features include:  
-- Real-time **sensor input** for obstacle detection and course guidance  
-- **Motor and actuator control** for smooth, accurate movement  
-- **Decision-making algorithms** for adaptive pathfinding  
-- **Timers, interrupts, and control loops** for efficient low-level control  
+The **EEBOT Autonomous Robot Navigation System** is a collaborative final project showcasing an **intelligent autonomous robot** capable of navigating a guided course with precision and reliability.  
 
-This project highlights how embedded systems and collaborative development can be applied to create a fully functional autonomous robot.  
+The robot integrates **real-time sensors, motor control, and decision-making algorithms**, leveraging **embedded systems design, hardware timers, interrupts, and control loops** to operate autonomously in real-world conditions.
+
+---
+
+## ⚙️ Key Features
+
+- **Autonomous Navigation:** Robot navigates the guided course without external input.  
+- **Real-Time Sensor Input:** Detects obstacles and adapts to environmental conditions.  
+- **Motor & Actuator Control:** Ensures smooth, precise movements.  
+- **Decision-Making Algorithms:** Selects optimal paths based on live sensor data.  
+- **Timers, Interrupts & Control Loops:** Reliable, low-level hardware management.
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Freescale HCS12 Microcontroller**  
-- **NXP CodeWarrior IDE** (Assembly + C)  
-- Timer modules, I/O subsystems, and interrupt handling routines  
+
+| Technology | Purpose |
+|------------|---------|
+| Freescale HCS12 Microcontroller | Core processing and control |
+| NXP CodeWarrior IDE (Assembly + C) | Programming and debugging |
+| Timer Modules & I/O Subsystems | Hardware timing and peripheral control |
+| Interrupt Handling Routines | Event-driven control for responsiveness |
 
 ---
 
-## 🎥 Demo Video
-Click to watch the EEBOT Robot in action:
+## 🚀 System Architecture
+Sensors --> Microcontroller (HCS12) --> Decision-Making Algorithms --> Motor & Actuator Control
 
 
-[![EEBOT Robot Demo](https://img.youtube.com/vi/PQ2uhcagHnQ/0.jpg)](https://youtube.com/shorts/PQ2uhcagHnQ?si=9LnpC-18juQw4heY)
-
-
-## 🚀 Summary
-Autonomous robot engineered to navigate a guided course using sensors, motor control, and decision-making algorithms. Powered by the Freescale HCS12 and NXP CodeWarrior, the system integrates timers, interrupts, and control loops for precise and reliable performance.  
+- Sensors provide live data to the microcontroller.  
+- Microcontroller processes data using timers, interrupts, and control loops.  
+- Decision-making algorithms determine optimal robot movement.  
+- Commands are sent to actuators for precise navigation.
 
 ---
-© 2025 Hamza Malik. All rights reserved!
+
+## 📺 Demo Video
+
+Watch the EEBOT Robot Guidance Challenge in action by clicking the thumbnail above or [here](https://youtube.com/shorts/PQ2uhcagHnQ?si=9LnpC-18juQw4heY).
+
+---
+
+## 📄 Summary
+
+A fully functional autonomous robot engineered to navigate guided courses using **real-time sensors, motor control, and decision-making algorithms**. Developed with **Freescale HCS12** and **NXP CodeWarrior (Assembly + C)**, leveraging timers, interrupts, and control loops for **precise, reliable, and adaptive performance**.
+
+---
+
+## 📜 License & Copyright
+
+© 2025 **Hamza Malik** – All rights reserved.
