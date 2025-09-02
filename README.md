@@ -27,7 +27,9 @@ This project highlights how embedded systems and collaborative development can b
 ---
 
 ## 🎥 Demo Video
-Click the image below to watch the EEBOT Robot in action:
+Click to watch the EEBOT Robot in action:
+
+
 [![EEBOT Robot Demo](https://img.youtube.com/vi/PQ2uhcagHnQ/0.jpg)](https://youtube.com/shorts/PQ2uhcagHnQ?si=9LnpC-18juQw4heY)
 
 
