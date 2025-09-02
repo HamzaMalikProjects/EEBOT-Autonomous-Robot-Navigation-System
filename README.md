@@ -35,4 +35,5 @@ Watch the EEBOT in action:
 ## 🚀 Summary
 Autonomous robot engineered to navigate a guided course using sensors, motor control, and decision-making algorithms. Powered by the Freescale HCS12 and NXP CodeWarrior, the system integrates timers, interrupts, and control loops for precise and reliable performance.  
 
-
+---
+© 2025 Hamza Malik. All rights reserved!
